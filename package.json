@@ -1,0 +1,19 @@
+{
+  "name": "discord-telepatia-sniper",
+  "version": "1.0.0",
+  "description": "index.exe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maccer",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "node-fetch": "^3.3.2",
+    "undici": "^6.10.2",
+    "websocket": "^1.0.34",
+    "ws": "^8.16.0"
+  },
+  "type": "commonjs"
+}
